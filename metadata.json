@@ -1,0 +1,7 @@
+{
+  "name": "CivicLens",
+  "description": "AI-Powered Civic Issue Monitoring System. Detects infrastructure problems, classifies severity, and streamlines reporting.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
